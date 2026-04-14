@@ -90,12 +90,12 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   
-  -   ![](https://komarev.com/ghpvc/?username=Anurudh-Zenvoya)
+  -   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
     </br>
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anurudh-Zenvoya&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anurudh-Zenvoya&show_icons=true&count_private=true" />
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurudh-Zenvoya&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="Anurudh-Zenvoya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMoto069&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="HelloMoto069" />
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurudh-Zenvoya&" alt="Anuruddh Singh" />
   
