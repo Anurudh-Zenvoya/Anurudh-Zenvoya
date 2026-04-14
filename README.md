@@ -102,7 +102,7 @@ Here are some ideas to get you started: -->
 </div>
  </br>
 
-[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurudh-Zenvoya&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurudh Singh's github activity graph](https://github-readme-activity-graph-lemon-five.vercel.app/graph?username=Anurudh-Zenvoya&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
