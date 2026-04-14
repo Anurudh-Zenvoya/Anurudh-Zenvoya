@@ -90,19 +90,19 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   
-  -   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
+  -   ![](https://komarev.com/ghpvc/?username=Anurudh-Zenvoya)
     </br>
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HelloMoto069&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anurudh-Zenvoya&show_icons=true" />
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMoto069&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="HelloMoto069" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurudh-Zenvoya&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="Anurudh-Zenvoya" />
   </br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurudh-Zenvoya&" alt="Anuruddh Singh" />
   
 </div>
  </br>
 
-[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HelloMoto069&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurudh-Zenvoya&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
@@ -114,7 +114,7 @@ Here are some ideas to get you started: -->
   
 ### 🤣 Random Jokes :
   
-<a href="https://github.com/HelloMoto069"><img src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0"></a>
+<a href="https://github.com/Anurudh-Zenvoya"><img src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0"></a>
 
     
 ### 🎧 Music Time  :
